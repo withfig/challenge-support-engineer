@@ -45,12 +45,13 @@ I have a LOT of files on my desktop. I want to find all the files on my desktop 
 ### Hints for structuring your response
 
 1. Keep your email short and simple! **No one** wants to read a long email
-2. Use single backticks when referencing a small code block e.g. `cd desktop`  
+2. Use single backticks when referencing a small code block e.g. \`cd desktop\`  
 3. Use tripe backticks when referencing a longer code block e.g.
 
-```
-git add .
-```
+\```  
+git add .  
+\```  
+
 4. Remember, you’re pretending to respond to a user asking these questions. Be nice and friendly!
 
 ### Hints for understanding the shell
